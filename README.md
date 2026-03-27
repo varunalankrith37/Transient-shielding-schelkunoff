@@ -24,7 +24,8 @@ Year: 2026
 - `DEConcrete.m` - Double exponential pulse simulations
 - `DS_Cu.m` - Damped sinusoidal pulse simulations
 - `fourier.m` - Custom Fourier transform function 
-- `invfourier.m` - Custom inverse Fourier transform function 
+- `invfourier.m` - Custom inverse Fourier transform function
+- `nopaddingfreq.m` - Frequency domain analysis using custom functions
 
 ## Requirements
 
